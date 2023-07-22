@@ -1,6 +1,6 @@
 # 🌐 Web Browser - README
 
-![Study Buddy](https://i.postimg.cc/ZntZjFpg/Screenshot-2023-07-22-200700.png)
+![Fluex Browser](https://i.postimg.cc/ZntZjFpg/Screenshot-2023-07-22-200700.png)
 
 ## Table of Contents
 1. 🚀 [Installation](#-installation)
