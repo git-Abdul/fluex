@@ -3,15 +3,15 @@
 ![Fluex Browser](https://i.postimg.cc/ZntZjFpg/Screenshot-2023-07-22-200700.png)
 
 ## Table of Contents
-1. 🚀 [Installation](#-installation)
-2. 🧩 [Modules Used](#-modules-used)
-3. 📝 [Description](#-description)
-4. 🖼️ [Image Assets](#-image-assets)
-5. 🎨 [Customization](#-customization)
-6. 🛠️ [Usage](#-usage)
-7. 📜 [License](#-license)
-8. 🤝 [Contributing](#-contributing)
-9. 📧 [Contact](#-contact)
+1. 🚀 [Installation](#-installation-)
+2. 🧩 [Modules Used](#-modules-used-)
+3. 📝 [Description](#-description-)
+4. 🖼️ [Image Assets](#-image-assets-)
+5. 🎨 [Customization](#-customization-)
+6. 🛠️ [Usage](#-usage-)
+7. 📜 [License](#-license-)
+8. 🤝 [Contributing](#-contributing-)
+9. 📧 [Contact](#-contact-)
 
 ## 🚀 Installation <a name="installation"></a>
 To use this Web Browser, follow the steps below:
